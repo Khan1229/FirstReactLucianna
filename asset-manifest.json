@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FirstReactLucianna/static/css/main.34de6062.chunk.css",
+    "main.js": "/FirstReactLucianna/static/js/main.1fed5512.chunk.js",
+    "main.js.map": "/FirstReactLucianna/static/js/main.1fed5512.chunk.js.map",
+    "runtime-main.js": "/FirstReactLucianna/static/js/runtime-main.f19aaf81.js",
+    "runtime-main.js.map": "/FirstReactLucianna/static/js/runtime-main.f19aaf81.js.map",
+    "static/js/2.af69ed8b.chunk.js": "/FirstReactLucianna/static/js/2.af69ed8b.chunk.js",
+    "static/js/2.af69ed8b.chunk.js.map": "/FirstReactLucianna/static/js/2.af69ed8b.chunk.js.map",
+    "index.html": "/FirstReactLucianna/index.html",
+    "precache-manifest.6a29b4fab6244a8256ee987ccab42847.js": "/FirstReactLucianna/precache-manifest.6a29b4fab6244a8256ee987ccab42847.js",
+    "service-worker.js": "/FirstReactLucianna/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/FirstReactLucianna/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f19aaf81.js",
+    "static/js/2.af69ed8b.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.1fed5512.chunk.js"
+  ]
+}
